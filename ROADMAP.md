@@ -45,4 +45,4 @@ TBD
 
 ### Resources for learning Node.js
 
-TBD
+* [nodejs.org official guides](https://nodejs.org/en/docs/guides/)
